@@ -5,8 +5,11 @@ Library is one of the most important public resources. A resaonable siting analy
 
 ## Instruction
 Computing your Environment:
+
     conda env create -f environment.yml
+    
     conda activate uep239-Final_Project
+    
     jupyter lab Final_Project.ipynb
     
 ## Data and Source
